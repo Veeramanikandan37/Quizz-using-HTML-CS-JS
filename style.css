@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    width: 700px;
+    padding: 20px;
+    background-color: rgb(203, 141, 141);
+    margin: 20px;
+}
+.options p{
+    background-color: antiquewhite;
+    display: inline-block;
+    width: 630px;
+    margin: 10px 0px;
+    padding: 10px;
+}
+.options label{
+    color: whitesmoke;
+     
+    padding: 10px;
+    display: inline-block;
+    background-color: darkslategrey;
+}
+#qtn{
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
